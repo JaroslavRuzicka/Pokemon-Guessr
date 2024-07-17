@@ -3,6 +3,8 @@
 This is a pokemon guessing app, where after creating account you guess names of pokemons, and if you guess right, you can add them to your team. You can then compare your team to other users teams on the leaderboard. You can also inspect each individial pokemon and learn more about them. Users can also leave comments and let everyone know how they feel about each individual pokemon.
 
 # Video demo:
+Quick 30 second video demo
+[![Watch the video](https://youtu.be/HvX2aZt7Qcc)
 
 
 # Key Features
