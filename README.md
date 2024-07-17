@@ -4,7 +4,9 @@ This is a pokemon guessing app, where after creating account you guess names of 
 
 # Video demo:
 Quick 30 second video demo
-[![Watch the video](https://youtu.be/HvX2aZt7Qcc)
+
+https://github.com/user-attachments/assets/bab59118-3256-40c0-a125-35e0a854941a
+
 
 
 # Key Features
